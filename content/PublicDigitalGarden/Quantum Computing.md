@@ -5,3 +5,7 @@
 	2) https://github.com/quantumlib/Cirq/blob/master/docs/start/start.ipynb
 
 https://builtin.com/hardware/quantum-computing-companies
+
+quantum salaries
+
+quantum+threejs to visualize code effects
