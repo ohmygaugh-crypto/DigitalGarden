@@ -1,5 +1,5 @@
 [[private/Snowflake|Snowflake]]
-	Eager to be able to do ETL on the latest data warehouses for my personal fullstack application projects, I've completed these two tutorials:
+	Eager to be able to do ETL on the latest data warehouses for my personal full-stack application projects, I've completed these two tutorials:
 		[[Talk to your data with an LLM on Snowflake]]
 		[[GRANDstack Citibike Tutorial Dashboard]] #neo4j
 
