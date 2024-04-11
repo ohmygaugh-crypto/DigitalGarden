@@ -13,6 +13,13 @@ Observable salary visualization over the years
 
 [[private/Big Data|Big Data]]
 
+[[Going Viral]]
+
+
+[[AI]]
+
+https://radar.cloudflare.com/
+
 
 
 

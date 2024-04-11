@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Click here to return home",
+    pageTitle: "🏝️ Click here to return home",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -30,11 +30,11 @@ const config: QuartzConfig = {
           highlight: "rgba(143, 159, 169, 0.15)",
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
+          light: "#0a3239",
+          lightgray: "#1b4b51",
+          gray: "#2e6467",
+          darkgray: "#508b8e",
+          dark: "#71b1b3",
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",

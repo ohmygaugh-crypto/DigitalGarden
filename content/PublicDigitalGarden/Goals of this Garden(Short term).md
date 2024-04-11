@@ -1,4 +1,4 @@
-A rabbit hole for my curious mind.
+A rabbit hole for my curious mind.🕳️🐇🎩🍄
 
 # Enhance understanding of:
 
@@ -11,9 +11,16 @@ It's just about asking the right questions. Qhich any one can do and already sma
 - interrelation between toolchains and the step by step blueprint of: enumeration, foothold and flag capture
 - a toolbox for being competitive on hack the box for the sport of it!
 
-[[Horde Useful information while we still can]]
 
 
 [[Portfolio|Portfolio]]
 
-To host *canvas* *based* script kiddie tutorials like [this](https://dc547f7d.brainpresscanvastest.pages.dev/) instead of *linear scrolled based*  traditional blog posts
+To host *canvas* *based* script kiddie tutorials like [this](https://dc547f7d.brainpresscanvastest.pages.dev/) instead of *linear scrolled based*  traditional blog posts:
+- https://dc547f7d.brainpresscanvastest.pages.dev/
+
+- https://occxkrumdemoday.pages.dev/
+
+
+
+
+[[Horde Useful information while we still can]]

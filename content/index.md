@@ -9,7 +9,6 @@ This is the start of working with the garage door open for all to see.
 ######
 [[Goals of this Garden(Short term)]]
 
-[[A futurist guide for highschooler's]]
 
 
 ## Help/Documentation
