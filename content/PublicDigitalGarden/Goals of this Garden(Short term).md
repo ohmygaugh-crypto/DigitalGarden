@@ -1,26 +1,20 @@
-A rabbit hole for my curious mind.🕳️🐇🎩🍄
+Give you an intro into the world I'm apart of and the services my team provides:
 
-# Enhance understanding of:
+[[Product Strategy|Product Strategy]]
 
-[[Data Science]] literally using chatGPT to NLP back to SQL and crushing the game along the way. This co-pilot pair programming will render the barrier to entry way less for data scientists and enhance the productivity of existing scientists to jump to the tippy top of their flow state plateau and acheive more through duration rather than the need to break new ground intelligence wise before working. 
+[[Platforming Engineering|Platforming Engineering]]
 
-It's just about asking the right questions. Qhich any one can do and already smart people will still have an edge, just that their mental model of SQL is no longer as great of an attribute, it's more subtle, still important for efficiency, just more subtle of a job security trait to come to terms with like everything else AI removes from our hands.
+If you are unaware of these two topics just note that they are inherently intertwined:
 
+Platform Engineering is about treating your developer teams internal with the same level of Product Strategy as your(their) end customers.
 
-[[Hacking]] and what attack vectors I like outlined as a process.
-- interrelation between toolchains and the step by step blueprint of: enumeration, foothold and flag capture
-- a toolbox for being competitive on hack the box for the sport of it!
+Looking at you developer teams internal toolchain with the same level of attentiveness as you do to get product market fit right for your(there) end customers.
 
+The breadth of the cloud native landscape is daunting. It causes analysis paralysis. It's confusing to integrate these components for both salty dogs and new comers on the team who are just trying to keep everything "legacy" up and running. Krumware provides services that gets your existing team up to speed while we share the migration duties with them. It hedges your risk of:
+- shutting down production
+- siloing learned talent into one keystone individual on the team(people job hop on average every 2-3 years)
 
+Gives you the confidence to move when you can't afford to stay flatfooted. You business demands are causing you to look at kubernetes for scalability, at the same time you, are taking a stern look at the promised business "value" and reevaluating the exorbitant cloud costs that are associated with it. With cloud native you can take a hybrid approach would truly find that equilibrium in cost for your specific needs. That's why taking the leap into the cloud native landscape is so important.
 
-[[Portfolio|Portfolio]]
+This is our [[Platform Playbook]]
 
-To host *canvas* *based* script kiddie tutorials like [this](https://dc547f7d.brainpresscanvastest.pages.dev/) instead of *linear scrolled based*  traditional blog posts:
-- https://dc547f7d.brainpresscanvastest.pages.dev/
-
-- https://occxkrumdemoday.pages.dev/
-
-
-
-
-[[Horde Useful information while we still can]]
