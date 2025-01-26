@@ -25,7 +25,7 @@ const config: QuartzConfig = {
           gray: "#000080", //  (graph dots/lines)
           darkgray: "#f0f0f0", // (text in search bar?)
           dark: "#002255", // (graph dots/lines)
-          secondary: "#1E4E8C", // (retrun hom and links)
+          secondary: "#000080", // (retrun hom and links)
           tertiary: "#674523", // Soft muted blue (tags?)
           highlight: "rgba(0, 0, 128, 0.15)", // Blue highlight
         },
