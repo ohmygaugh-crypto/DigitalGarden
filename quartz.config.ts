@@ -20,24 +20,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#afffdaa3",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#7d7d7d",
-          secondary: "#FF8A00",
-          tertiary: "#afffdaa3",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#ffffff", // Pure white background
+          lightgray: "#e6f3ff", // Light blue-white
+          gray: "#5394ec", // Bright PowerShell blue
+          darkgray: "#1760b3", // Deep blue
+          dark: "#003366", // Dark navy blue
+          secondary: "#0078D7", // Windows blue accent
+          tertiary: "#b8d0ff", // Soft blue
+          highlight: "rgba(83, 148, 236, 0.15)", // Blue highlight
         },
         darkMode: {
-          light: "#0a3239",
-          lightgray: "#315d65",
-          gray: "#f1f3f5",
-          darkgray: "#e9ecef",
-          dark: "#dee2e6",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
+          light: "#000080", // Deep navy blue (classic CLI background)
+          lightgray: "#5394ec", // Bright blue
+          gray: "#f0f0f0", // Off-white text
+          darkgray: "#ffffff", // White highlights
+          dark: "#e6e6e6", // Light gray-white
+          secondary: "#87cefa", // Light blue accent
+          tertiary: "#add8e6", // Light blue
+          highlight: "rgba(255, 255, 255, 0.15)", // White highlight
         },
       },
     },
