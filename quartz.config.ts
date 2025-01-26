@@ -22,12 +22,12 @@ const config: QuartzConfig = {
         lightMode: {
           light: "#ffffff",
           lightgray: "#e6f2ff",
-          gray: "#4A7EBB", // Deeper, more vintage blue
-          darkgray: "#00367D", // Even deeper navy blue
-          dark: "#002255", // Extremely deep blue, almost midnight
-          secondary: "#1E4E8C", // Rich, classic blue
-          tertiary: "#89B3E3", // Soft, muted blue
-          highlight: "rgba(74, 126, 187, 0.15)",
+          gray: "#000080", // Royal blue
+          darkgray: "#00367D", // Deeper navy blue
+          dark: "#002255", // Extremely deep blue
+          secondary: "#1E4E8C", // Rich classic blue
+          tertiary: "#89B3E3", // Soft muted blue
+          highlight: "rgba(0, 0, 128, 0.15)", // Blue highlight
         },
         darkMode: {
           light: "#002255", // Ultra-deep navy, almost black
