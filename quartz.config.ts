@@ -21,23 +21,23 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#000080", //(title?)
-          gray: "#000080", // Royal blue (graph dots/lines)
-          darkgray: "#00367D", // Deeper navy blue
-          dark: "#002255", // Extremely deep blue
-          secondary: "#1E4E8C", // Rich classic blue
-          tertiary: "#89B3E3", // Soft muted blue
+          lightgray: "#000080", //(search bar)
+          gray: "#000080", //  (graph dots/lines)
+          darkgray: "#f0f0f0", // (text in search bar?)
+          dark: "#002255", // (graph dots/lines)
+          secondary: "#1E4E8C", // (backlinks?)
+          tertiary: "#89B3E3", // Soft muted blue (tags?)
           highlight: "rgba(0, 0, 128, 0.15)", // Blue highlight
         },
         darkMode: {
           light: "#002255", // Ultra-deep navy, almost black
-          lightgray: "#ffffff", // Bright vintage blue
+          lightgray: "#ffffff", // Graph outline
           gray: "#f0f0f0",
-          darkgray: "#4A7EBB",
+          darkgray: "#ffffff",
           dark: "#e6e6e6",
           secondary: "#6699CC", // Classic blue-gray
           tertiary: "#3366AA", // Deep blue accent
-          highlight: "rgba(255, 255, 255, 0.15)",
+          highlight: "#ffffff", //graph icon?
         },
       },
     },
