@@ -26,7 +26,7 @@ const config: QuartzConfig = {
           darkgray: "#000080", // (text in search bar?)
           dark: "#002255", // (graph dots/lines)
           secondary: "#000080", // (retrun home and links)
-          tertiary: "#674523", // Soft muted blue (tags?)
+          tertiary: "#000080", // (graph dots/lines for sure + hover color)
           highlight: "rgba(0, 0, 128, 0.15)", // Blue highlight
         },
         darkMode: {
@@ -35,9 +35,9 @@ const config: QuartzConfig = {
           gray: "#f0f0f0", //(graph dots/lines)
           darkgray: "#ffffff", //(text in search bar?)
           dark: "#e6e6e6", //(graph dots/lines)
-          secondary: "#6699CC", //(return home and links)
-          tertiary: "#3366AA", //(tags)
-          highlight: "#ffffff", //highlights
+          secondary: "#ffffff", //(return home and links)
+          tertiary: "#fff555", //(graph dots/lines for sure)
+          highlight: "#674523", //highlights
         },
       },
     },
