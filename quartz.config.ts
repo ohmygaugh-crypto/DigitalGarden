@@ -21,8 +21,8 @@ const config: QuartzConfig = {
       colors: {
         lightMode: {
           light: "#ffffff",
-          lightgray: "#e6f2ff",
-          gray: "#000080", // Royal blue
+          lightgray: "#000080", //(title?)
+          gray: "#000080", // Royal blue (graph dots/lines)
           darkgray: "#00367D", // Deeper navy blue
           dark: "#002255", // Extremely deep blue
           secondary: "#1E4E8C", // Rich classic blue
@@ -31,9 +31,9 @@ const config: QuartzConfig = {
         },
         darkMode: {
           light: "#002255", // Ultra-deep navy, almost black
-          lightgray: "#4A7EBB", // Bright vintage blue
+          lightgray: "#ffffff", // Bright vintage blue
           gray: "#f0f0f0",
-          darkgray: "#ffffff",
+          darkgray: "#4A7EBB",
           dark: "#e6e6e6",
           secondary: "#6699CC", // Classic blue-gray
           tertiary: "#3366AA", // Deep blue accent
