@@ -20,24 +20,24 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#ffffff", // Pure white background
-          lightgray: "#e6f3ff", // Light blue-white
-          gray: "#5394ec", // Bright PowerShell blue
-          darkgray: "#1760b3", // Deep blue
-          dark: "#003366", // Dark navy blue
-          secondary: "#0078D7", // Windows blue accent
-          tertiary: "#b8d0ff", // Soft blue
-          highlight: "rgba(83, 148, 236, 0.15)", // Blue highlight
+          light: "#ffffff",
+          lightgray: "#e6f2ff",
+          gray: "#4A7EBB", // Deeper, more vintage blue
+          darkgray: "#00367D", // Even deeper navy blue
+          dark: "#002255", // Extremely deep blue, almost midnight
+          secondary: "#1E4E8C", // Rich, classic blue
+          tertiary: "#89B3E3", // Soft, muted blue
+          highlight: "rgba(74, 126, 187, 0.15)",
         },
         darkMode: {
-          light: "#000080", // Deep navy blue (classic CLI background)
-          lightgray: "#5394ec", // Bright blue
-          gray: "#f0f0f0", // Off-white text
-          darkgray: "#ffffff", // White highlights
-          dark: "#e6e6e6", // Light gray-white
-          secondary: "#87cefa", // Light blue accent
-          tertiary: "#add8e6", // Light blue
-          highlight: "rgba(255, 255, 255, 0.15)", // White highlight
+          light: "#002255", // Ultra-deep navy, almost black
+          lightgray: "#4A7EBB", // Bright vintage blue
+          gray: "#f0f0f0",
+          darkgray: "#ffffff",
+          dark: "#e6e6e6",
+          secondary: "#6699CC", // Classic blue-gray
+          tertiary: "#3366AA", // Deep blue accent
+          highlight: "rgba(255, 255, 255, 0.15)",
         },
       },
     },
