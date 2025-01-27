@@ -1,19 +1,14 @@
 ---
-title: Welcome to a futurists knowledge base
+title: Welcome to my knowledge base
 ---
-
-This is the start of working with the garage door open for all to see. 
-
-"I think therefore I am" - Rene Descartes
 
 ######
 [[Goals of this Garden(Short term)]]
 
-To host canvas based script kiddie tutorials like these. Maybe people like it instead of traditional tutorials that are in the format of a linear, scrolled based, blog posts:
+Have this be a place where I can share my thoughts and ideas with the world. Enjoy the calm tranquility. Try using the graph traversal to find your way around.
 
-https://dc547f7d.brainpresscanvastest.pages.dev/
+You'll find out about my career progression, my goals, my insights, and a backlog of my project ideas(if you dig deep enough).
 
-https://occxkrumdemoday.pages.dev/
 
 ## Help/Documentation
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.

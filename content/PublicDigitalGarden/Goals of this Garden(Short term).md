@@ -1,8 +1,21 @@
-Give you an intro into the world I'm apart of and the services my team provides:
+I want this to represent wisdom I've been shared in my career. I've had the priveldge to learn from folks really at the top of their game. Hopefully this encapsulates their teachings. 
+
+I also want to distill the takes aways I've had and create better tutorials for people to readily apply information they find here. One concept I've been working on is the idea of a "canvas" based tutorial. Something I only think is possible with the right tools like obsidian, quartz, and other communtiy plugins.
+
+To host canvas based script kiddie tutorials like these. Maybe people like it instead of traditional tutorials that are in the format of a linear, scrolled based, blog posts:
+
+https://dc547f7d.brainpresscanvastest.pages.dev/
+
+https://occxkrumdemoday.pages.dev/
+
+
+
+
+To give you a glipmse into my career progression. Here are what my teams provide:
 
 [[Product Strategy|Product Strategy]]
 
-[[Platforming Engineering|Platforming Engineering]]
+[[Platform Engineering Theory|Platform Engineering Theory]]
 
 If you are unaware of these two topics just note that they are inherently intertwined:
 
