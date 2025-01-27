@@ -27,7 +27,7 @@ const config: QuartzConfig = {
           dark: "#002255", // (graph dots/lines)
           secondary: "#000080", // (retrun home and links)
           tertiary: "#000080", // (graph dots/lines for sure + hover color)
-          highlight: "rgba(0, 0, 128, 0.15)", // Blue highlight
+          highlight: "rgba(248, 248, 248, 0.08)", // highlight
         },
         darkMode: {
           light: "#002255", // Ultra-deep navy, almost black
