@@ -1,5 +1,6 @@
 ---
 title: Welcome to my knowledge base
+date: 2025-01-29
 ---
 
 ######
